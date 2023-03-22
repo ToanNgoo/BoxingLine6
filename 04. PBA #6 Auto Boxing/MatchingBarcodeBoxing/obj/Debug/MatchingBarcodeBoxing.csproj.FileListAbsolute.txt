@@ -1,0 +1,130 @@
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.exe.config
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.exe
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.pdb
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.exe
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.pdb
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+D:\01. Project\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.exe
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.exe.config
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.exe
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\bin\Debug\MatchingBarcodeBoxing.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01. Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+D:\01. CPE DEV\03. 2022\01. Back up\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\02. Repair\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Boxing ver2-test\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\New folder (2)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe.config
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.exe
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\bin\Debug\PBA Auto Boxing GEN2.0 V001.pdb
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.History.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\5. Boxing #6 (Upload MES)\Boxing ver2 (Add Alarm)\04. PBA #6 Auto Boxing\MatchingBarcodeBoxing\obj\Debug\MatchingBarcodeBoxing.csproj.GenerateResource.Cache

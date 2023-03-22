@@ -1,0 +1,3 @@
+Main:	30
+Cell:	20
+Sub:	40

@@ -1,0 +1,7 @@
+[RECEIVE]100741.99 @PV06MES     V06BOXP1021220230222100928  58   146:V06EXTP1001M200507041731C312232          230224V002100R                                    Composite Module_main                                 1*
+[RECEIVE]100842.32 @PV06MES     V06BOXP1021220230222101431  58   146:V06EXTP1001M200507041731C312232          230224V002130R                                    Composite Module_main                                 1*
+[RECEIVE]100916.69 @PV06MES     V06BOXP1021220230222101520  58   146:V06EXTP1001M200507041731C312232          230224V002130R                                    Composite Module_main                                 1*
+[RECEIVE]101143.73 @PV06MES     V06BOXP1021220230222101704  58   146:V06EXTP1001M200507041731C312232          230224V002130R                                    Composite Module_main                                 1*
+[RECEIVE]101230.57 @PV06MES     V06BOXP1021220230222101825 154   146:V06EXTP1001M200507041731C312232          230220V004610R                                    Composite Module_main                                 1*
+[RECEIVE]102851.87 @PV06MES     V06BOXP1021220230222103431  58   146:V06EXTP1001M200507041731C312232          230224V002090R                                    Composite Module_main                                 1*
+[RECEIVE]112654.78 @PV06MES     V06BOXP1021220230222113225 154   146:V06EXTP1001M200507041731C312232          230220V005160R                                    Composite Module_main                                 1*
